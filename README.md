@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gagan771s
+- 👋 Hi, I’m Gagandeep Singh
 - 👀 I’m interested in Programming , Bikes and Cars
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projrcts, as i'm a begginer projects will help me to understand and get inspiritation from all the geniuses here
+- 💞️ I’m looking to collaborate on projects, as i'm a begginer projects will help me to understand and get inspiritation from all the Homo sapiens here
 - 📫 Reach me at @Gagan771s on any platform
 - 😄 Pronouns: Singh is King
 - ⚡ Fun fact: error 404
